@@ -1,6 +1,8 @@
 <template>
   <div class="home">
     <Titulo titulo="Principal"/>
+    Ver cambio en github
+    p2
   </div>
   
 </template>
