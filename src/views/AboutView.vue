@@ -2,7 +2,9 @@
   <div class="about">
     <Titulo titulo="About"/>
   </div>
-  
+  <div>
+    
+  </div>
 
 </template>
 <script>
